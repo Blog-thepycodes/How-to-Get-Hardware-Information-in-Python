@@ -1,0 +1,1 @@
+# How-to-Get-Hardware-Information-in-Python
